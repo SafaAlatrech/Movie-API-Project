@@ -1,0 +1,14 @@
+D:\Projet 2020\MyMDB\MyMDB\bin\Debug\netcoreapp2.1\MyMDB.deps.json
+D:\Projet 2020\MyMDB\MyMDB\bin\Debug\netcoreapp2.1\MyMDB.runtimeconfig.json
+D:\Projet 2020\MyMDB\MyMDB\bin\Debug\netcoreapp2.1\MyMDB.runtimeconfig.dev.json
+D:\Projet 2020\MyMDB\MyMDB\bin\Debug\netcoreapp2.1\MyMDB.dll
+D:\Projet 2020\MyMDB\MyMDB\bin\Debug\netcoreapp2.1\MyMDB.pdb
+D:\Projet 2020\MyMDB\MyMDB\obj\Debug\netcoreapp2.1\MyMDB.csprojAssemblyReference.cache
+D:\Projet 2020\MyMDB\MyMDB\obj\Debug\netcoreapp2.1\MyMDB.csproj.CoreCompileInputs.cache
+D:\Projet 2020\MyMDB\MyMDB\obj\Debug\netcoreapp2.1\MyMDB.RazorAssemblyInfo.cache
+D:\Projet 2020\MyMDB\MyMDB\obj\Debug\netcoreapp2.1\MyMDB.RazorAssemblyInfo.cs
+D:\Projet 2020\MyMDB\MyMDB\obj\Debug\netcoreapp2.1\MyMDB.AssemblyInfoInputs.cache
+D:\Projet 2020\MyMDB\MyMDB\obj\Debug\netcoreapp2.1\MyMDB.AssemblyInfo.cs
+D:\Projet 2020\MyMDB\MyMDB\obj\Debug\netcoreapp2.1\MyMDB.RazorTargetAssemblyInfo.cache
+D:\Projet 2020\MyMDB\MyMDB\obj\Debug\netcoreapp2.1\MyMDB.dll
+D:\Projet 2020\MyMDB\MyMDB\obj\Debug\netcoreapp2.1\MyMDB.pdb
